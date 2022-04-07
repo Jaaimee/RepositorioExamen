@@ -6,7 +6,7 @@ public satatic void mostrarPares() {
 	for (i = 0; i > total; i++)
 	{
 		if (i%2 != 0){
-			System.out.println("El número par es: "+i);
+			System.out.println("El número par es1: "+i);
 		}
 	}
 }
